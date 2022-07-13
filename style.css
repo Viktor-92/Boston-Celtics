@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(10, 98, 10);
+}
+
+h1,
+h2,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+
+.get-start__header {
+    max-width: 1100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.get-start-list {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 95);
+    margin: 0 20px;
+}
+
+.get-start__title {
+    text-align: center;
+}
+
+.get-start__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.button-submit {
+    width: 150px;
+    height: 25;
+    margin-top: 10px;
+}
+
+.email-form {
+    width: 250px;
+    height: 20px;
+    padding: 5px;
+}
+
+.top-playrs__title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.get-start__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-sheet {
+    height: 40px;
+    margin: 0 20px;
+}
+
+.celtics-tatum {
+    display: flex;
+    margin: 20px;
+}
+
+.celtics-Brown {
+    display: flex;
+    margin: 20px;
+}
+
+.celtics-smart {
+    display: flex;
+    margin: 20px;
+}
+
+.garden-garden {
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+.get-start__picture-garden {
+    display: flex;
+    justify-content: center;
+}
+
+.garden {
+    max-width: 1095px;
+    max-height: 620px;
+    margin: 20px 0;
+}
+
+.get-start__card {
+    display: flex;
+    justify-content: center;
+}
+
+.tatum-card {
+    margin: 0 10px;
+}
+
+.brown-card {
+    margin: 0 10px;
+}
+
+.smart-card {
+    margin: 0 10px;
+}
+
+.tatum-picture {
+    max-width: 394px;
+    height: 350px;
+}
+
+.brown-picture {
+    max-width: 394px;
+    height: 350px;
+}
+
+.smart-picture {
+    max-width: 394px;
+    height: 350px;
+}
+
+.footer__container {
+    margin-top: 20px;
+    height: 25px;
+}
+
+.manu__footer {
+    display: flex;
+    justify-content: right;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
