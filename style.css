@@ -4,7 +4,11 @@
 }
 
 body {
-    background-color: rgb(10, 98, 10);
+    background-color: rgb(0, 188, 97);
+}
+
+#header__img-logo {
+    width: 100px;
 }
 
 h1,
@@ -19,7 +23,7 @@ p {
 }
 
 .get-start__header {
-    max-width: 1100px;
+    background-color: rgb(50, 50, 77);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -33,7 +37,7 @@ p {
 
 .nav-link {
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(0, 0, 95);
+    color: rgb(249, 92, 92);
     margin: 0 20px;
 }
 
@@ -109,42 +113,53 @@ p {
 
 .get-start__card {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .tatum-card {
-    margin: 0 10px;
+    background-color: rgb(181, 181, 237);
+    width: 300px;
+    height: 400px;
+    border: 1px solid;
 }
 
 .brown-card {
-    margin: 0 10px;
+    background-color: rgb(181, 181, 237);
+    width: 300px;
+    height: 400px;
+    border: 1px solid;
 }
 
 .smart-card {
-    margin: 0 10px;
+    background-color: rgb(181, 181, 237);
+    width: 300px;
+    height: 400px;
+    border: 1px solid;
 }
 
 .tatum-picture {
-    max-width: 394px;
-    height: 350px;
+    max-width: 300px;
+    height: 320px;
 }
 
 .brown-picture {
-    max-width: 394px;
-    height: 350px;
+    max-width: 300px;
+    height: 320px;
 }
 
 .smart-picture {
-    max-width: 394px;
-    height: 350px;
+    max-width: 300px;
+    height: 320px;
 }
 
 .footer__container {
-    margin-top: 20px;
-    height: 25px;
+    background-color: rgb(50, 50, 77);
+    margin-top: 15px;
+    height: 50px;
 }
 
 .manu__footer {
+    background-color: rgb(50, 50, 77);
     display: flex;
     justify-content: right;
     font-family: Arial, Helvetica, sans-serif;
